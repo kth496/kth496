@@ -1,5 +1,9 @@
 ## Hi 👋
 
+- 김태홍
+- taehongkim496@gmail.com
+- [kth496.github.io](kth496.github.io)
+
 ### Interest
 
 - Server-side
