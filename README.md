@@ -1,8 +1,9 @@
-## Hi 👋
+### Info
 
 - 김태홍
 - taehongkim496@gmail.com
 - [kth496.github.io](https://kth496.github.io)
+
 
 ### Interest
 
