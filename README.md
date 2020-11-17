@@ -1,7 +1,7 @@
 ### Info
 
-- Dankook University, Dept. Software B.S. student (2013.03 ~ )
-- [kakao](https://www.kakaocorp.com/) Software engineer (2020.12 ~ )
+- **Dankook University**, Dept. Software B.S. student (2013.03 ~ )
+- **[kakao](https://www.kakaocorp.com/)** Software engineer (2020.12 ~ )
 
 ### Contact
 
