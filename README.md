@@ -5,8 +5,8 @@
 
 ### Contact
 
-- taehongkim496@gmail.com
-- [kth496.github.io](https://kth496.github.io)
+- teo.kkim@kakaocorp.com
+- [kth496.tistory.com](https://kth496.tistory.com)
 
 
 ### Interest
