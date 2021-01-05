@@ -1,3 +1,5 @@
+
+
 ### Info
 
 - **Dankook University**, Dept. Software B.S. student (2013.03 ~ )
@@ -10,6 +12,7 @@
 - Server-side
 - Statistical analysis
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kth496)](https://hits.seeyoufarm.com)
 
 <!--
 **kth496/kth496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
